@@ -1,3 +1,3 @@
 # Currículo 
 
-Esse é o meu primeiro código em HTML e CSS. Ele é o meu currículo.
+Esse é o meu currículo feito em HTML e CSS.
